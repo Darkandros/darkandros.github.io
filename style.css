@@ -1,0 +1,45 @@
+.work-photo {
+    width: 200px;
+    height: 200px;
+    object-position: top;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;
+    margin: 20px auto;
+    display: block;    
+}
+
+.profile-photo {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    object-position: top;
+    -webkit-box-shadow: 5px 5px 15px 5px #000000; 
+    box-shadow: 5px 5px 15px 5px #000000;
+    margin: 20px auto;
+    display: block;    
+}
+
+.profile-photo1 {
+    width: 200px;
+    height: 200px;
+    object-position: top;
+    margin: 20px auto;
+    display: block;    
+}
+
+.card-deck{
+    margin-left: 4%;
+    margin-right: 4%;
+}
+
+.card1{
+    margin-top: 15%;
+    object-fit: cover;
+    border-radius: 50%;
+
+}
+
+.container0 {
+    margin: 30px auto;
+}
